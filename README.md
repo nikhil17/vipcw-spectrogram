@@ -80,7 +80,7 @@ You should now have a few new files in the directory, namely
 The values in birdfft.txt should already be normalized. These are then passed to the video display.
 
 
-Server
+###Server###
 
 
 The server allows data from a single sender Raspberry Pi to be sent to multiple receivers.
